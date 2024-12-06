@@ -1,0 +1,15 @@
+Property	Description	S1_target	S2_target	S3_target
+landlord_first_name	The first name of the landlord, text	Robert	Amy	Jame
+landlord_last_name	The last name of the landlord, text	Edwards	Liu	Wane
+tenant_1_first_name	The first name of the first tenant, text	Michelle	Russell	Ishan
+tenant_1_last_name	The first name of the first tenant, text	Allen	Moran	Douglasson
+tenant_2_first_name	The first name of the second tenant, text	-	Caleb	-
+tenant_2_last_name	The last name of the second tenant, text	-	Joon	Farmer
+rental_unit_unit	The Unit of the rental unit, e.g. unit 1 or basement. Text	unit 4c	-	-
+rental_unit_street_number	The street number of the rental unit, text	1201	138	12004
+rental_unit_street_name	The street name of the rental unit. text	Beverly Street	New York Street	Hutchinson
+rental_unit_city_town	The city of the rental unit. Text	Toronto	Hamilton	London
+rental_unit_province	The province of the rental unit. Text	Ontario	Ontario	Ontario
+rental_unit_postal_code	The postal code of the rental unit (text, A1A 1A1)	A4B 2Y1	O9C 4P2	-
+rental_number_vehicle_spaces	The number of vehicle spaces for the rental unit, text.	0	2	0
+rental_unit_condominium	Is the rental unit a condominium? Text, yes or no	no	yes	-
